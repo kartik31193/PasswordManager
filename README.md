@@ -12,7 +12,7 @@ A desktop app for generating and saving password for a particular site and retri
 3. Can retrieve the username and password for a website you saved whenever required.
 
 ## Contributing
-Smart Attendance App is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
+Password Manager is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
  * Fork it!
  * Report bugs and make suggestions.
  * Translate the app.
