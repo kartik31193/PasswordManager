@@ -1,6 +1,5 @@
 # Password Manager
-<img src="Screenshot_password_manager.png" align="center"
-width="200" hspace="10" vspace="10">
+<img src="Screenshot_password_manager.png" align="center">
 A desktop app for generating and saving password for a particular site and retrieving it whenever required.
 
 ## Running on machine
