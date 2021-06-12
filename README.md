@@ -1,6 +1,6 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Password Manager}
+# Password Manager
+<img src="PasswordManager/logo.png" align="left"
+width="200" hspace="10" vspace="10">
 A desktop app for generating and saving password for a particular site and retrieving it whenever required.
 ## Running on machine
 - run main.py
@@ -15,6 +15,4 @@ A desktop app for generating and saving password for a particular site and retri
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
