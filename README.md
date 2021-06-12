@@ -1,10 +1,8 @@
 # Password Manager
-
 <img src="logo.png" align="left"
 width="200" hspace="10" vspace="10">
-
-
 A desktop app for generating and saving password for a particular site and retrieving it whenever required.
+
 ## Running on machine
 - run main.py
 - you can convert .py to .exe for windows
@@ -13,6 +11,7 @@ A desktop app for generating and saving password for a particular site and retri
 1. Generate strong paswword for a website.
 2. Save username and password.
 3. Can retrieve the username and password for a website you saved whenever required.
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
